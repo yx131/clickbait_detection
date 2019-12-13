@@ -1,6 +1,6 @@
 To whomever that came across this repo,
 
-  Hello, this is my personal project on clickbait detection using the data set from the Clickbait-Challenge at https://www.clickbait-challenge.org/.
+  Hello, this is my personal project on clickbait detection using the dataset from the Clickbait-Challenge at https://www.clickbait-challenge.org/.
 
   The dataset is fairly large and not uploaded here. Please obtain the data from https://www.clickbait-challenge.org/.
   Rename the truth/instance files from the 2495 dataset as truth1.json and instance1.json.
